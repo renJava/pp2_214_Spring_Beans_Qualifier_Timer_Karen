@@ -14,7 +14,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  *      которое пишет таймер, одно и тоже.
  * 5) Раскоментировать тест из заготовки и проверить своё решение.
  *
- *
  */
 public class Application {
 
