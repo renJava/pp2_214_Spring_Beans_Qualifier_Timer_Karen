@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * Склонируйте заготовку проекта по ссылке.
+ * Склонируйте заготовку проекта по ссылке: https://github.com/KataAcademy/PP_2_1_3_SpringBeans.
  * Поработаем со связыванием бинов.
  * Вызывать бины из контекста хорошо, но не так удобно, как связывать их автоматически.
  * Для работы аннотаций связывания, я добавил в Maven ядро Спринга, так мы имеем совершенно рабочее Spring-приложение,
